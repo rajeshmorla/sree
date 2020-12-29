@@ -10,6 +10,7 @@ pipeline {
     stage('sonar') {
       steps {
         echo 'checking sonar'
+        sh 'sonar ghhjgjh m,bkjbjb jkbjk'
       }
     }
 
